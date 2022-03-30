@@ -38,9 +38,8 @@
 	.main_menu {
 		display: none;
 	}
-	.burger_menu {
+	.nav-but-wrap {
 		display: block;
-		cursor: pointer;
 	}
 	.first_line {
 		width: 25px;
@@ -82,7 +81,7 @@
 		grid-template-columns: 1fr;
 	}
 	.second_section img {
-		height: 50%;
+		height: 40%;
 	}
 	.grid_wrapper {
 		grid-template-columns: 1fr;
